@@ -1,0 +1,7 @@
+Step1: You fork the project you wnat from git to your own git repo.
+Step2: Create a git folder on local machine.
+Step3: git init
+Step4: git clone https://github.com/your-username/project-name.git
+Step5: cd project-name
+Step6: you are now good to go.
+
