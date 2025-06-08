@@ -30,3 +30,12 @@ git diff commitID otherCommitID
 
 git branch -a
 
+-> So, if you are now confident that your local branch is now reviewed by your team, since you
+pushed it to the remote branch, you now want to make that your main branch in your local system.
+
+for that,
+
+git checkout main
+
+git merge branchname
+
