@@ -5,3 +5,28 @@ Step4: git clone https://github.com/your-username/project-name.git
 Step5: cd project-name
 Step6: you are now good to go.
 
+
+-> If you want to see what has changed in your working directory, you can run
+
+git diff
+
+-> To view the changes that are staged in your working directory, use
+
+git diff --staged
+
+-> To look at the git activity, use the following. It'll show all of the activity.
+
+git log
+
+-> There's commit ID, and commit hash. If you want to compare a given commit and its previous commit,
+
+git diff commitID^!
+
+-> In order to compare between 2 commits,
+
+git diff commitID otherCommitID
+
+-> If you want to see the remote branches your local repo knows, you can use following to list all
+
+git branch -a
+
