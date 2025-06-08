@@ -6,7 +6,4 @@ I'm in the demo branch now that was created on github online.
 
 Adding stuffs again on git in the git branch
 some
-<<<<<<< HEAD
-=======
 something i am adding ajlo
->>>>>>> 62a5b22bb6efd41f24720dff70930ec15cd48661
